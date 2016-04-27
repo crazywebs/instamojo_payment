@@ -1,2 +1,2 @@
 # instamojo_payment
-# this is complete instamojo payment gateway integration. and iahe tested and integrated.
+# this is complete instamojo payment gateway integration. and i have tested and integrated.
